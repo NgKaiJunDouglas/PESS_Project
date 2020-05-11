@@ -1,0 +1,38 @@
+#banner{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 60%;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+.topnav{
+    display: show;
+    text-align: center;
+    padding: 15px;
+    background-color: darkgrey;
+}
+
+.topnav a{
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover{
+    background-color: white;
+    color: mediumblue;
+}
+
+.topnav a.active{
+    background-color: white;
+    color: mediumblue;
+}
+table{
+    border: none;
+}
